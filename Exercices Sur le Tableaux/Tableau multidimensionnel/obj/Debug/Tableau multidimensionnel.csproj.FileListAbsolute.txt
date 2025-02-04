@@ -1,0 +1,7 @@
+D:\Projets Professionnel\Devoir C#\Tableau multidimensionnel\bin\Debug\Tableau multidimensionnel.exe.config
+D:\Projets Professionnel\Devoir C#\Tableau multidimensionnel\bin\Debug\Tableau multidimensionnel.exe
+D:\Projets Professionnel\Devoir C#\Tableau multidimensionnel\bin\Debug\Tableau multidimensionnel.pdb
+D:\Projets Professionnel\Devoir C#\Tableau multidimensionnel\obj\Debug\Tableau multidimensionnel.csproj.AssemblyReference.cache
+D:\Projets Professionnel\Devoir C#\Tableau multidimensionnel\obj\Debug\Tableau multidimensionnel.csproj.CoreCompileInputs.cache
+D:\Projets Professionnel\Devoir C#\Tableau multidimensionnel\obj\Debug\Tableau multidimensionnel.exe
+D:\Projets Professionnel\Devoir C#\Tableau multidimensionnel\obj\Debug\Tableau multidimensionnel.pdb

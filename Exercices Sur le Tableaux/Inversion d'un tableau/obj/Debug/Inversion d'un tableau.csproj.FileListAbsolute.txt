@@ -1,0 +1,7 @@
+D:\Projets Professionnel\Devoir C#\Inversion d'un tableau\bin\Debug\Inversion d'un tableau.exe.config
+D:\Projets Professionnel\Devoir C#\Inversion d'un tableau\bin\Debug\Inversion d'un tableau.exe
+D:\Projets Professionnel\Devoir C#\Inversion d'un tableau\bin\Debug\Inversion d'un tableau.pdb
+D:\Projets Professionnel\Devoir C#\Inversion d'un tableau\obj\Debug\Inversion d'un tableau.csproj.AssemblyReference.cache
+D:\Projets Professionnel\Devoir C#\Inversion d'un tableau\obj\Debug\Inversion d'un tableau.csproj.CoreCompileInputs.cache
+D:\Projets Professionnel\Devoir C#\Inversion d'un tableau\obj\Debug\Inversion d'un tableau.exe
+D:\Projets Professionnel\Devoir C#\Inversion d'un tableau\obj\Debug\Inversion d'un tableau.pdb

@@ -1,0 +1,7 @@
+D:\Projets Professionnel\Devoir C#\Création et affichage d'un tableau\bin\Debug\Création et affichage d'un tableau.exe.config
+D:\Projets Professionnel\Devoir C#\Création et affichage d'un tableau\bin\Debug\Création et affichage d'un tableau.exe
+D:\Projets Professionnel\Devoir C#\Création et affichage d'un tableau\bin\Debug\Création et affichage d'un tableau.pdb
+D:\Projets Professionnel\Devoir C#\Création et affichage d'un tableau\obj\Debug\Création et affichage d'un tableau.csproj.AssemblyReference.cache
+D:\Projets Professionnel\Devoir C#\Création et affichage d'un tableau\obj\Debug\Création et affichage d'un tableau.csproj.CoreCompileInputs.cache
+D:\Projets Professionnel\Devoir C#\Création et affichage d'un tableau\obj\Debug\Création et affichage d'un tableau.exe
+D:\Projets Professionnel\Devoir C#\Création et affichage d'un tableau\obj\Debug\Création et affichage d'un tableau.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tri d'un tableau", "Tri d'un tableau.csproj", "{A006E343-3DE2-4AA5-A0C0-5EC525580334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A006E343-3DE2-4AA5-A0C0-5EC525580334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A006E343-3DE2-4AA5-A0C0-5EC525580334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A006E343-3DE2-4AA5-A0C0-5EC525580334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A006E343-3DE2-4AA5-A0C0-5EC525580334}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94AFD73D-6AF8-4614-9778-1411026C322F}
+	EndGlobalSection
+EndGlobal
